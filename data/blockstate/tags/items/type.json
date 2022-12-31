@@ -1,0 +1,9 @@
+{
+    "values": [
+        "#minecraft:slabs",
+        "minecraft:chest",
+        "minecraft:piston",
+        "minecraft:sticky_piston",
+        "minecraft:trapped_chest"
+    ]
+}

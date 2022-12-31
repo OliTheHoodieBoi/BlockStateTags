@@ -1,0 +1,32 @@
+{
+    "values": [
+        "#minecraft:fences",
+        "#minecraft:walls",
+        "minecraft:black_stained_glass_pane",
+        "minecraft:blue_stained_glass_pane",
+        "minecraft:brown_mushroom_block",
+        "minecraft:brown_stained_glass_pane",
+        "minecraft:chorus_plant",
+        "minecraft:cyan_stained_glass_pane",
+        "minecraft:fire",
+        "minecraft:glass_pane",
+        "minecraft:glow_lichen",
+        "minecraft:gray_stained_glass_pane",
+        "minecraft:green_stained_glass_pane",
+        "minecraft:iron_bars",
+        "minecraft:light_blue_stained_glass_pane",
+        "minecraft:light_gray_stained_glass_pane",
+        "minecraft:lime_stained_glass_pane",
+        "minecraft:magenta_stained_glass_pane",
+        "minecraft:mushroom_stem",
+        "minecraft:orange_stained_glass_pane",
+        "minecraft:pink_stained_glass_pane",
+        "minecraft:purple_stained_glass_pane",
+        "minecraft:red_mushroom_block",
+        "minecraft:red_stained_glass_pane",
+        "minecraft:redstone_wire",
+        "minecraft:tripwire",
+        "minecraft:white_stained_glass_pane",
+        "minecraft:yellow_stained_glass_pane"
+    ]
+}

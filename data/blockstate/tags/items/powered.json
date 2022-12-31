@@ -1,0 +1,26 @@
+{
+    "values": [
+        "#minecraft:buttons",
+        "#minecraft:doors",
+        "#minecraft:fence_gates",
+        "#minecraft:trapdoors",
+        "#minecraft:wooden_pressure_plates",
+        "minecraft:activator_rail",
+        "minecraft:bell",
+        "minecraft:comparator",
+        "minecraft:detector_rail",
+        "minecraft:heavy_weighted_pressure_plate",
+        "minecraft:lectern",
+        "minecraft:lever",
+        "minecraft:light_weighted_pressure_plate",
+        "minecraft:lightning_rod",
+        "minecraft:note_block",
+        "minecraft:observer",
+        "minecraft:polished_blackstone_pressure_plate",
+        "minecraft:powered_rail",
+        "minecraft:repeater",
+        "minecraft:stone_pressure_plate",
+        "minecraft:string",
+        "minecraft:tripwire_hook"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "values": [
+        "#minecraft:candles",
+        "minecraft:blast_furnace",
+        "minecraft:cake",
+        "minecraft:campfire",
+        "minecraft:deepslate_redstone_ore",
+        "minecraft:furnace",
+        "minecraft:redstone_lamp",
+        "minecraft:redstone_ore",
+        "minecraft:redstone_torch",
+        "minecraft:smoker",
+        "minecraft:soul_campfire"
+    ]
+}
